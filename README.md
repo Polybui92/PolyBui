@@ -1,2 +1,2 @@
 # PolyBui
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolyBui&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolyBui&theme=radical)
